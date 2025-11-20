@@ -1,0 +1,252 @@
+1. LA ARQUITECTURA INFORMATIVA DEL DOCUMENTO
+   - Explicación breve: La arquitectura informativa organiza el contenido de manera que el lector pueda identificar fácilmente la información relevante. Es fundamental para la claridad y comprensión del documento.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Inicie con una nota explicativa que resuma el propósito del documento y las acciones que debe realizar el destinatario.
+     • Paso 2: Estructure el documento en bloques informativos (ANTECEDENTES, FUNDAMENTOS, PARTE DISPOSITIVA, etc.).
+     • Paso 3: Use numeración y listas para organizar información.
+     • Paso 4: Mantenga párrafos breves, cada uno con una idea principal.
+     • Paso 5: Resalte tipográficamente la información clave (negritas, mayúsculas).
+     • Paso 6: Asegúrese de que el contenido sea conciso y preciso, eliminando información obsoleta y reubicando datos relevantes.
+   - Ejemplo ANTES:
+     "En este juzgado se ha iniciado un procedimiento judicial..."
+   - Ejemplo DESPUÉS:
+     "Le informo que en este juzgado se ha iniciado un procedimiento judicial para que usted, en el plazo de 20 días hábiles, pague la cantidad de X euros."
+
+1.1. LA NOTA EXPLICATIVA INICIAL
+   - Explicación breve: La nota explicativa al inicio del documento ayuda al lector a entender rápidamente su propósito y las acciones requeridas.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Redacte una breve introducción que explique el propósito del documento.
+     • Paso 2: Indique claramente qué acciones debe realizar el destinatario.
+   - Ejemplo ANTES:
+     "Este documento es una cédula de citación."
+   - Ejemplo DESPUÉS:
+     "Este documento es una cédula de citación. Le informo que debe comparecer en este juzgado el día X."
+
+1.2. TÍTULOS Y BLOQUES INFORMATIVOS
+   - Explicación breve: Los títulos y bloques informativos facilitan la navegación del documento y permiten al lector identificar rápidamente secciones relevantes.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Use títulos en negrita y mayúsculas para cada sección.
+     • Paso 2: No subraye los títulos ni use punto final.
+   - Ejemplo ANTES:
+     "ANTECEDENTES DE HECHO."
+   - Ejemplo DESPUÉS:
+     "ANTECEDENTES DE HECHO"
+
+1.3. NUMERACIÓN Y LISTAS
+   - Explicación breve: La numeración y las listas organizan la información de manera clara y accesible.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Use numeración para enumerar acciones o elementos importantes.
+     • Paso 2: Mantenga la consistencia en el formato de las listas.
+   - Ejemplo ANTES:
+     "Se le informa que debe presentar el escrito y comparecer."
+   - Ejemplo DESPUÉS:
+     "Usted debe:
+     1. Presentar el escrito.
+     2. Comparecer en la fecha indicada."
+
+1.4. PÁRRAFOS BREVES
+   - Explicación breve: Los párrafos breves facilitan la lectura y comprensión del texto.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Limite cada párrafo a una idea principal.
+     • Paso 2: Use puntos y aparte para separar ideas.
+   - Ejemplo ANTES:
+     "El demandado deberá presentar su escrito en el plazo de 20 días hábiles y comparecer al juicio."
+   - Ejemplo DESPUÉS:
+     "El demandado deberá presentar su escrito en el plazo de 20 días hábiles.
+     Además, debe comparecer al juicio."
+
+1.5. RESALTE TIPOGRÁFICO RESPONSABLE
+   - Explicación breve: El uso responsable de negritas y mayúsculas ayuda a destacar información clave sin sobrecargar el texto.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Use negritas para resaltar información esencial.
+     • Paso 2: Evite el uso excesivo de mayúsculas.
+   - Ejemplo ANTES:
+     "El demandado DEBE comparecer."
+   - Ejemplo DESPUÉS:
+     "El demandado debe comparecer."
+
+1.6. CONTENIDO: CONCISIÓN Y PRECISIÓN
+   - Explicación breve: La concisión y precisión en el contenido evitan confusiones y mantienen el enfoque en la información relevante.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Elimine información innecesaria.
+     • Paso 2: Incluya solo datos relevantes y actualizados.
+   - Ejemplo ANTES:
+     "En este juzgado se ha iniciado un procedimiento judicial que requiere su atención."
+   - Ejemplo DESPUÉS:
+     "Se ha iniciado un procedimiento judicial que requiere su atención."
+
+2. LA SINTAXIS: DEL TEXTO A LA ORACIÓN
+   - Explicación breve: La sintaxis adecuada es clave para la claridad del texto. Se debe evitar la complejidad innecesaria en las oraciones.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Limite la extensión de las oraciones a un máximo de 40 palabras.
+     • Paso 2: Evite el uso de gerundios ilativos.
+     • Paso 3: Mantenga el orden sujeto + verbo + objeto.
+     • Paso 4: Evite pasivas mixtas y nominalizaciones excesivas.
+   - Ejemplo ANTES:
+     "El demandado, al no haber presentado su escrito, se tendrá por no presentado."
+   - Ejemplo DESPUÉS:
+     "El demandado no ha presentado su escrito, por lo que se le tendrá por no presentado."
+
+2.1. EXTENSIÓN DE ORACIONES
+   - Explicación breve: Las oraciones deben ser concisas para facilitar la comprensión.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Limite las oraciones a un máximo de 40 palabras.
+     • Paso 2: Use puntos y seguido para separar ideas.
+   - Ejemplo ANTES:
+     "El demandado deberá presentar su escrito en el plazo de 20 días hábiles y comparecer al juicio, y si no lo hace, se le tendrá por no presentado."
+   - Ejemplo DESPUÉS:
+     "El demandado deberá presentar su escrito en el plazo de 20 días hábiles. Si no lo hace, se le tendrá por no presentado."
+
+2.2. EVITAR GERUNDIOS ILATIVOS
+   - Explicación breve: Los gerundios ilativos complican la comprensión del texto.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Sustituya gerundios por verbos conjugados.
+   - Ejemplo ANTES:
+     "Requerir a la parte deudora para que pagando la cantidad..."
+   - Ejemplo DESPUÉS:
+     "Requerir a la parte deudora para que pague la cantidad..."
+
+2.3. ORDEN DE LA ORACIÓN
+   - Explicación breve: Mantener el orden sujeto + verbo + objeto facilita la comprensión.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Organice las oraciones siguiendo este orden.
+   - Ejemplo ANTES:
+     "Se tendrá por no presentada la contestación a la demanda."
+   - Ejemplo DESPUÉS:
+     "La contestación a la demanda se tendrá por no presentada."
+
+2.4. USO DE CONSTRUCCIONES IMPERSONALES Y PASIVAS
+   - Explicación breve: Evitar pasivas mixtas y construcciones impersonales mejora la claridad.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Prefiera la voz activa.
+   - Ejemplo ANTES:
+     "Se procederá a la citación."
+   - Ejemplo DESPUÉS:
+     "Se procederá a citar."
+
+2.5. REDUCCIÓN DE NOMINALIZACIONES
+   - Explicación breve: Usar verbos en lugar de sustantivos abstractos mejora la claridad.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Prefiera el uso de verbos activos.
+   - Ejemplo ANTES:
+     "La finalización del procedimiento se producirá."
+   - Ejemplo DESPUÉS:
+     "El procedimiento finalizará."
+
+2.6. NO OMITIR DETERMINANTES
+   - Explicación breve: Los determinantes son esenciales para evitar ambigüedades.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Incluya determinantes en las oraciones.
+   - Ejemplo ANTES:
+     "Demandado debe comparecer."
+   - Ejemplo DESPUÉS:
+     "El demandado debe comparecer."
+
+3. EL DOCUMENTO COMO RELACIÓN: DIALOGAR CON EL LECTOR
+   - Explicación breve: El documento debe ser una comunicación clara y respetuosa entre el órgano judicial y el destinatario.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Use pronombres adecuados (yo/nosotros/usted).
+     • Paso 2: Mantenga un tono cortés y amable.
+     • Paso 3: Evite formulismos anacrónicos y use un léxico claro.
+   - Ejemplo ANTES:
+     "Se le informa que debe comparecer."
+   - Ejemplo DESPUÉS:
+     "Le informo que debe comparecer."
+
+3.1. PRONOMBRES Y VOZ
+   - Explicación breve: Usar pronombres adecuados humaniza el texto.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Use "usted" para dirigirse al destinatario.
+   - Ejemplo ANTES:
+     "El demandado debe presentar su escrito."
+   - Ejemplo DESPUÉS:
+     "Usted debe presentar su escrito."
+
+3.2. CORTESÍA VERBAL
+   - Explicación breve: La cortesía verbal mejora la relación con el lector.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Use frases como "Si usted no está de acuerdo..."
+   - Ejemplo ANTES:
+     "Se le informa que debe pagar."
+   - Ejemplo DESPUÉS:
+     "Le informo que debe pagar. Si no está de acuerdo, puede recurrir."
+
+3.3. LÉXICO CLARO
+   - Explicación breve: Usar un léxico claro evita confusiones.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Evite formulismos y use sinónimos claros.
+   - Ejemplo ANTES:
+     "Se le apercibe."
+   - Ejemplo DESPUÉS:
+     "Se le advierte."
+
+4. ATENCIÓN A LOS PEQUEÑOS DETALLES
+   - Explicación breve: Los detalles formales son cruciales para la presentación del documento.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Evite el uso excesivo de mayúsculas.
+     • Paso 2: Escriba las fechas correctamente.
+     • Paso 3: Cite la legislación de manera clara.
+   - Ejemplo ANTES:
+     "En Madrid, a 1 de Febrero de 2023."
+   - Ejemplo DESPUÉS:
+     "En Madrid, a 1 de febrero de 2023."
+
+4.1. EVITAR EL “MAYUSCULISMO”
+   - Explicación breve: El uso excesivo de mayúsculas dificulta la lectura.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Reserve las mayúsculas para títulos y nombres propios.
+   - Ejemplo ANTES:
+     "El JUZGADO ha decidido..."
+   - Ejemplo DESPUÉS:
+     "El juzgado ha decidido..."
+
+4.2. FECHAS Y PLAZOS
+   - Explicación breve: Las fechas deben ser claras y consistentes.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Escriba las fechas en formato claro.
+     • Paso 2: Defina los plazos de manera precisa.
+   - Ejemplo ANTES:
+     "El plazo es de VEINTE DIAS."
+   - Ejemplo DESPUÉS:
+     "El plazo es de 20 días hábiles."
+
+4.3. REFERENCIAS A LEGISLACIÓN
+   - Explicación breve: Las referencias legales deben ser claras y precisas.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Cite la ley completa la primera vez.
+     • Paso 2: Use abreviaturas en citas posteriores.
+   - Ejemplo ANTES:
+     "Conforme a la Ley de Enjuiciamiento Civil."
+   - Ejemplo DESPUÉS:
+     "Conforme a la Ley de Enjuiciamiento Civil (LEC)."
+
+4.4. USO DE LA COMA
+   - Explicación breve: La puntuación adecuada es esencial para la claridad.
+   - Cómo aplicarla paso a paso:
+     • Paso 1: Use comas para separar incisos y oraciones condicionales.
+   - Ejemplo ANTES:
+     "Si el demandado no comparece se le tendrá por no presentado."
+   - Ejemplo DESPUÉS:
+     "Si el demandado no comparece, se le tendrá por no presentado."
+
+5. PARA SABER MÁS
+   - Recursos adicionales para mejorar la redacción:
+     • Informe de recomendaciones de la Comisión de Modernización del Lenguaje Jurídico.
+     • Libro de estilo de la justicia.
+     • Guía breve del prontuario de redacción del Tribunal Supremo.
+     • Recursos de la Real Academia Española.
+
+6. UNA ÚLTIMA REVISIÓN (CHECKLIST FINAL)
+   - Lista de verificación:
+     • ¿Hay una nota explicativa clara al inicio?
+     • ¿Los títulos están bien formateados?
+     • ¿Cada párrafo contiene una idea principal?
+     • ¿Listas y numeraciones son consistentes?
+     • ¿Oraciones con longitud moderada y orden SVO claro?
+     • ¿Sin gerundios ilativos ni pasiva mixta innecesaria?
+     • ¿Cortesía y trato de “usted” cuando proceda?
+     • ¿Plazos claros y acciones concretas para el destinatario?
+     • ¿Referencias legales situadas al final de frase o párrafo?
+     • ¿Negritas solo donde aportan valor?
+     • ¿Pronombres sin ambigüedades?
+     • ¿Lenguaje inclusivo y respetuoso?
